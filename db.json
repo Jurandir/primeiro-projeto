@@ -1,0 +1,16 @@
+{
+    "series":[
+        {
+            "id": 1,
+            "nome": "Serie numero 01"
+        },
+        {
+            "id": 2,
+            "nome": "Serie numero 02"
+        },
+        {
+            "id": 3,
+            "nome": "Serie numero 03"
+        }
+    ]
+}
